@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://vetrify.com/en/sitemap.xml</loc>
-		
-	   	<lastmod>2018-09-12T12:52:36+06:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://vetrify.com/fr/sitemap.xml</loc>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://vetrify.com/blog/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vetrify.com/blog/simple-blog-post-1/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vetrify.com/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vetrify.com/author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vetrify.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vetrify.com/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vetrify.com/author/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vetrify.com/tags/</loc>
+  </url>
+  
+</urlset>
