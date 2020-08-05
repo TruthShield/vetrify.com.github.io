@@ -4,17 +4,27 @@
   
   <url>
     <loc>https://vetrify.com/blog/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2020-08-04T08:01:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vetrify.com/blog/simple-blog-post-1/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <loc>https://vetrify.com/blog/avoiding-putting-your-project-in-a-straight-jacket-with-inappropriate-constraints/</loc>
+    <lastmod>2020-08-04T08:01:43+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://vetrify.com/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2020-08-04T08:01:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vetrify.com/blog/use-case-modeling-can-crash-your-project/</loc>
+    <lastmod>2020-08-04T07:00:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vetrify.com/blog/poor-requirements-and-specifications/</loc>
+    <lastmod>2020-08-01T07:00:42+00:00</lastmod>
   </url>
   
   <url>
@@ -26,19 +36,19 @@
   </url>
   
   <url>
-    <loc>https://vetrify.com/register/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vetrify.com/author/john-doe/</loc>
-  </url>
-  
-  <url>
     <loc>https://vetrify.com/author/mark-dinn/</loc>
   </url>
   
   <url>
+    <loc>https://vetrify.com/author/matt-cochran/</loc>
+  </url>
+  
+  <url>
     <loc>https://vetrify.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vetrify.com/register/</loc>
   </url>
   
 </urlset>
