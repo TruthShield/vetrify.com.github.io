@@ -3,67 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vetrify.com/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vetrify.com/blog/simple-blog-post-1/</loc>
+    <loc>/blog/simple-blog-post-1/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vetrify.com/</loc>
+    <loc>/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vetrify.com/fr/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vetrify.com/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>https://vetrify.com/author/</loc>
+    <loc>/author/</loc>
   </url>
   
   <url>
-    <loc>https://vetrify.com/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vetrify.com/fr/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vetrify.com/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://vetrify.com/author/john-doe/</loc>
+    <loc>/author/john-doe/</loc>
   </url>
   
   <url>
-    <loc>https://vetrify.com/author/mark-dinn/</loc>
+    <loc>/author/mark-dinn/</loc>
   </url>
   
   <url>
-    <loc>https://vetrify.com/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vetrify.com/fr/tags/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vetrify.com/tags/"
+                href="/tags/"
                 />
   </url>
   

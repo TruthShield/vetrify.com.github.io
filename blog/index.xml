@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Vetrify</title>
-    <link>https://vetrify.com/blog/</link>
+    <link>/blog/</link>
     <description>Recent content in Blogs on Vetrify</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2020 [TruthShield, LLC](https://truthshield.io) all right reserved</copyright>
     <lastBuildDate>Tue, 04 Aug 2020 08:01:43 +0000</lastBuildDate>
     
-	<atom:link href="https://vetrify.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to avoid putting your project in a straight-jacket with inappropriate constraints.</title>
-      <link>https://vetrify.com/blog/avoiding-putting-your-project-in-a-straight-jacket-with-inappropriate-constraints/</link>
+      <link>/blog/avoiding-putting-your-project-in-a-straight-jacket-with-inappropriate-constraints/</link>
       <pubDate>Tue, 04 Aug 2020 08:01:43 +0000</pubDate>
       
-      <guid>https://vetrify.com/blog/avoiding-putting-your-project-in-a-straight-jacket-with-inappropriate-constraints/</guid>
+      <guid>/blog/avoiding-putting-your-project-in-a-straight-jacket-with-inappropriate-constraints/</guid>
       <description>Inappropriate Constraints In many software practices, ‘business requirements’ end up not being actual business requirements. A requirement is something essential to the existence of the system.</description>
     </item>
     
     <item>
       <title>How over-reliance on use case modeling can crash your project.</title>
-      <link>https://vetrify.com/blog/use-case-modeling-can-crash-your-project/</link>
+      <link>/blog/use-case-modeling-can-crash-your-project/</link>
       <pubDate>Tue, 04 Aug 2020 07:00:43 +0000</pubDate>
       
-      <guid>https://vetrify.com/blog/use-case-modeling-can-crash-your-project/</guid>
+      <guid>/blog/use-case-modeling-can-crash-your-project/</guid>
       <description>The Problem. In many software practices, there is an overemphasis on use case modeling. Often, use cases are presented as the only technique for identifying and analyzing business requirements.</description>
     </item>
     
     <item>
       <title>Six things you can do to protect yourself from 18 common mistakes in  Requirements and Specifications that will tank your project.</title>
-      <link>https://vetrify.com/blog/poor-requirements-and-specifications/</link>
+      <link>/blog/poor-requirements-and-specifications/</link>
       <pubDate>Sat, 01 Aug 2020 07:00:42 +0000</pubDate>
       
-      <guid>https://vetrify.com/blog/poor-requirements-and-specifications/</guid>
+      <guid>/blog/poor-requirements-and-specifications/</guid>
       <description>18 Red Flags. Here are eighteen things you should be on the alert for to help you recognize poor quality business requirements and domain specifications in your software practice.</description>
     </item>
     
